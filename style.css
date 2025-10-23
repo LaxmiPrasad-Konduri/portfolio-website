@@ -35,7 +35,7 @@ header {
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  object-fit: contain; s */
+  object-fit: contain;
   object-position: center top; 
   background-color: white;
   border: 3px solid white;
