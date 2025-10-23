@@ -35,10 +35,13 @@ header {
   width: 180px;
   height: 180px;
   border-radius: 50%;
-  object-fit: cover;
+  object-fit: contain; s */
+  object-position: center top; 
+  background-color: white;
   border: 3px solid white;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
 }
+
 
 /* ===== Right: Text Section ===== */
 .intro-text {
