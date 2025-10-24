@@ -1,4 +1,3 @@
-// Smooth scroll for navigation or section interactions (optional)
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
   anchor.addEventListener('click', function(e) {
     e.preventDefault();
